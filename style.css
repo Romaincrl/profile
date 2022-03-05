@@ -1,0 +1,112 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+</style>
+
+
+@media (max-width: 960px) {
+
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+ 
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+
+  .container {
+    width: 300px;
+  }
+}
+
+
+h1 {
+font-size: 50px;
+font-family: 'Fredoka', sans-serif;
+margin-bottom: 10px;
+} 
+
+h2 {
+font-size: 29px;
+} 
+
+
+
+body {
+
+	color: rgb(80, 80, 80);
+text-align: center;
+font-size: 18px;
+font-family: 'Fredoka', sans-serif;
+} 
+
+h1, h2, h3 {
+
+  font-family: 'Fredoka', sans-serif;
+  color: rgb(40, 40, 40);
+} 
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+div{
+ text-align: center;
+
+}
+
+.bouton {
+ border-radius: 8px;
+ text-decoration: none;
+ text-align: center;
+ background: rgb(150, 150, 150);
+ width: 40;
+ height: 30;
+ color: white;
+ padding: 15px ;
+ margin: 30px ;
+ margin-top: 70px;
+}
+
+.circle{
+ border-radius: 50%;
+}
+
+
+.inline {
+ list-style: none;
+ margin: 30px;
+ display: inline;
+ align-content: center;
+}
+
+.inline li {
+display: inline;
+}
+
+.intro {
+background: rgb( 235, 235, 235);  
+width: 900px;                      
+padding: 30px;          
+margin: 0 auto;
+border-radius: 8px;                        
+box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+}
+
+.p {
+  background: rgb( 235, 235, 235);   
+padding: 15px;    
+margin: 20px;                         
+border-radius: 8px;                        
+box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+}
+
+div .outro {
+height: 200px;
+text-align: center;
+}
+
